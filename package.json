@@ -1,0 +1,24 @@
+{
+  "name": "dogeairdropbrowser",
+  "version": "1.0.0",
+  "description": "一个web3空投专用指纹浏览器。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsenLins/DogeAirdropBrowser.git"
+  },
+  "keywords": [
+    "airdrop",
+    "airdropbrowser",
+    "browser"
+  ],
+  "author": "asen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AsenLins/DogeAirdropBrowser/issues"
+  },
+  "homepage": "https://github.com/AsenLins/DogeAirdropBrowser#readme"
+}
