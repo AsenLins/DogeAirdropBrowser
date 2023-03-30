@@ -1,0 +1,6 @@
+https://blog.alanwei.com/blog/2021/10/07/detect-puppeteer-browse/
+
+#time zone
+https://stackoverflow.com/questions/53027538/how-to-set-change-or-block-timezonesystemtime-with-puppeteer
+#all time zone
+https://stackoverflow.com/questions/38399465/how-to-get-list-of-all-timezones-in-javascript

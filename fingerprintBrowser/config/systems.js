@@ -1,0 +1,21 @@
+export default[
+    "HP-UX",
+    "Linux i686",
+    "Linux armv7l",
+    "Linux armv8l",
+    "Linux aarch64",
+    "Linux x86_64",
+    "Mac68K",
+    "MacPPC",
+    "MacIntel",
+    "SunOS",
+    "Win16",
+    "Win32",
+    "WinCE",
+    "iPhone",
+    "iPod",
+    "iPad",
+    "Android",
+    "BlackBerry",
+    "Opera"
+]
